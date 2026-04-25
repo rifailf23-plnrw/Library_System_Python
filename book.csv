@@ -1,0 +1,13 @@
+book_id,title,isbn13,author,copies,availability,price
+AB01,The Great Gatsby,9780743273565,F Scott Fitzgerald,2,2,12.99
+AB02,1984,9780451524935,George Orwell,2,0,9.99
+AB03,To Kill Mockingbird,9780061935466,Harper Lee,1,1,11.49
+AB04,Brave New World,9780060850524,Aldous Huxley,2,2,10.99
+AB05,The Catcher Rye,9780316769174,J D Salinger,1,0,8.99
+CD01,Harry Potter One,9780747532743,J K Rowling,2,1,14.99
+CD02,Harry Potter Two,9780747538486,J K Rowling,2,2,14.99
+CD03,Animal Farm,9780451526342,George Orwell,1,1,7.49
+CD04,Lord of the Flies,9780571191475,William Golding,2,2,9.99
+CD05,The Alchemist,9780062315007,Paulo Coelho,1,1,10.49
+AB13,Life is short,9780060850524,Dale Carnegie,2,2,12.99
+AB12,Harry Potter Three,9780306406157,J K Rowling,2,1,13.99
