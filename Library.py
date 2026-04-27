@@ -1,6 +1,7 @@
 from Book import book_menu
 from Student import student_menu
-from Transaction import transaction_menu
+from Transaction import issue_book
+from Transaction import return_book
 from Graph import graph_menu
 # Main Menu
 
@@ -25,9 +26,9 @@ def main():
         elif choice == "2":
             student_menu()
         elif choice == "3":
-            transaction_menu()
+            issue_book()
         elif choice == "4":
-            transaction_menu()
+            return_book()
         elif choice in ("5",):
             graph_menu()
         elif choice == "0":
